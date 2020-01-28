@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595663313694",
+    "firebase_url": "https://dialogue-social.firebaseio.com",
+    "project_id": "dialogue-social",
+    "storage_bucket": "dialogue-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595663313694:android:c52fdcaa6d157c5b77070f",
+        "android_client_info": {
+          "package_name": "com.appiq.dialoguesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595663313694-icra645ajef5mgo2fiagkn10o14nk0rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appiq.dialoguesocial",
+            "certificate_hash": "4c13792c051cf242a282abea4d96d0f6b6fd98f4"
+          }
+        },
+        {
+          "client_id": "595663313694-n4aiu1iemqa4ru1lir3p3jflds1qc896.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsGR87_h557SLcjeP6z6Ra6u1meKpDxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595663313694-n4aiu1iemqa4ru1lir3p3jflds1qc896.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
